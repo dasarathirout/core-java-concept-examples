@@ -1,0 +1,8 @@
+## Compiled ##
+*.class
+## Package ##
+*.jar
+*.war
+## IDEA ##
+.idea/*
+out/*
